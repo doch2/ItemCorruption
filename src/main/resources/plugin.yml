@@ -1,0 +1,10 @@
+name: ItemCorruption
+version: ${project.version}
+main: com.dochsoft.itemcorruption.ItemCorruption
+authors: [ doch13_ ]
+description: 마인크래프트 아이템 부패 플러그인입니다. | 제작; 도치(doch13_)
+commands:
+  소멸시간:
+    description: Add Couurption Item Command
+  신선도:
+    description: Add freshness degree Item Command
